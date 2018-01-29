@@ -1,0 +1,10 @@
+.header {
+	font-family: 'Monoton', cursive;
+	background-color: white;
+	border: solid black 1px;
+}
+
+.form-header, .card-header {
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 30px;
+}
